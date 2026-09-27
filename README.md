@@ -13,6 +13,7 @@ site first: it explains the tasks and the rules.
 | [`lldeque`](lldeque) | [Project 6: LinkedListDeque](https://cs.dorian.page/en/swift/projects/lldeque/) |
 | [`arraydeque`](arraydeque) | [Project 7: ArrayDeque](https://cs.dorian.page/en/swift/projects/arraydeque/) |
 | [`percolation`](percolation) | [Project 8: Percolation](https://cs.dorian.page/en/swift/projects/percolation/) |
+| [`ngordnet`](ngordnet) | [Project 9: NGordNet](https://cs.dorian.page/en/swift/projects/ngordnet/) |
 
 More projects are added as the tutorial reaches them.
 

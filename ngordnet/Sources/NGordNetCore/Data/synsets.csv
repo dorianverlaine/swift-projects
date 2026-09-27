@@ -1,0 +1,56 @@
+0,entity,anything that exists
+1,living_thing organism,a thing that is alive
+2,animal beast,a living thing that moves and eats
+3,bird,an animal with feathers and wings
+4,sparrow,a small brown songbird
+5,eagle,a large bird of prey
+6,owl,a bird that hunts at night
+7,swan,a large white water bird
+8,penguin,a bird that swims but cannot fly
+9,swift,a fast bird that spends most of its life flying
+10,mammal,an animal that feeds its young on milk
+11,dog domestic_dog,a mammal kept as a companion
+12,puppy,a young dog
+13,cat true_cat,a small mammal with soft fur
+14,kitten,a young cat
+15,whale,a very large mammal that lives in the sea
+16,bat,a mammal that flies at night
+17,fish,an animal that lives in water and breathes with gills
+18,salmon,a fish that swims upriver
+19,shark,a large fish with sharp teeth
+20,plant flora,a living thing that grows in the ground
+21,tree,a tall plant with a trunk
+22,oak,a tree that grows acorns
+23,pine,a tree with needles
+24,flower bloom,the colorful part of a plant
+25,rose,a flower with thorns
+26,tulip,a flower that grows from a bulb
+27,artifact,a thing made by people
+28,device,an artifact made for a purpose
+29,computer data_processor,a device that runs programs
+30,laptop,a computer small enough to carry
+31,telephone phone,a device for talking at a distance
+32,bat club,a stick used to hit a ball
+33,vehicle,an artifact for carrying people or things
+34,car automobile auto,a vehicle with an engine and four wheels
+35,bicycle bike,a vehicle with two wheels and pedals
+36,boat,a vehicle that floats
+37,building edifice,a structure with walls and a roof
+38,house,a building people live in
+39,library,a building that lends books
+40,abstraction,an idea rather than a thing
+41,act action,something done
+42,change,an act that makes something different
+43,jump leap,a sudden change
+44,motion movement,the act of moving
+45,jump leap,the act of springing into the air
+46,run,the act of moving fast on foot
+47,swim,the act of moving through water
+48,group collection,several things considered together
+49,library,a collection of books or programs
+50,team,a group that works together
+51,communication,the sharing of information
+52,language,a system of communication
+53,english,a language spoken around the world
+54,swift,a programming language
+55,message,a piece of communication
