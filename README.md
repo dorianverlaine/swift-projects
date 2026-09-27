@@ -12,6 +12,7 @@ site first: it explains the tasks and the rules.
 | [`particles`](particles) | [Project 5: Particle Simulator](https://cs.dorian.page/en/swift/projects/particles/) |
 | [`lldeque`](lldeque) | [Project 6: LinkedListDeque](https://cs.dorian.page/en/swift/projects/lldeque/) |
 | [`arraydeque`](arraydeque) | [Project 7: ArrayDeque](https://cs.dorian.page/en/swift/projects/arraydeque/) |
+| [`percolation`](percolation) | [Project 8: Percolation](https://cs.dorian.page/en/swift/projects/percolation/) |
 
 More projects are added as the tutorial reaches them.
 
